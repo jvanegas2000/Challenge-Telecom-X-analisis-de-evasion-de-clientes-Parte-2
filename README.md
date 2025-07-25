@@ -60,7 +60,7 @@ Este proyecto desarrolla un sistema de predicción de churn (cancelación de cli
 ## 📁 Estructura del Proyecto
 
 ```
-📦 customer-churn-prediction/
+📦 Challenge-Telecom-X-analisis-de-evasion-de-clientes-Parte-2/
 ├── 📄 README.md
 ├── 📓 TelecomX_parte2_latam_Juan_Carlos_Vanegas_Molina.ipynb
 ├── 📊 data/
