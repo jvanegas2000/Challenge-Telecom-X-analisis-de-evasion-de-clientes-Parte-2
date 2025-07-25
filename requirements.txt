@@ -1,0 +1,57 @@
+# ====================================
+# CUSTOMER CHURN PREDICTION - TELECOM X
+# Requirements File
+# ====================================
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning Core
+scikit-learn>=1.1.0
+
+# Class Balancing
+imbalanced-learn>=0.9.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Jupyter Environment (optional - for local development)
+jupyter>=1.0.0
+ipython>=8.0.0
+
+# Additional Utilities
+tqdm>=4.64.0
+
+# ====================================
+# OPTIONAL - DEVELOPMENT TOOLS
+# ====================================
+
+# Code Quality (uncomment if needed)
+# black>=22.0.0
+# flake8>=5.0.0
+# pylint>=2.15.0
+
+# Testing (uncomment if needed)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+
+# ====================================
+# COMPATIBILITY NOTES
+# ====================================
+
+# Python Version: 3.8+
+# 
+# This requirements file includes all necessary
+# packages for the Customer Churn Prediction project.
+# 
+# Installation:
+# pip install -r requirements.txt
+#
+# For Google Colab users:
+# Most packages are pre-installed, you may only need:
+# !pip install imbalanced-learn statsmodels
